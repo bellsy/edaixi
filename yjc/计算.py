@@ -1,0 +1,5 @@
+x = input("请输入数字1:")
+y = input("请输入数字2:")
+z = input("请输入数字3:")
+name = input("请输入名字:")
+print(name+":"+str((int(x) + float(z))*10))
